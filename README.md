@@ -1,51 +1,5 @@
 # Hybrid-Detection-YARA
-Hybrid-Detection-YARA/
-│
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-├── CHANGELOG.md
-├── CODE_OF_CONDUCT.md
-│
-├── rules/
-│   ├── windows/
-│   │   ├── credential_access/
-│   │   ├── execution/
-│   │   ├── persistence/
-│   │   └── ransomware/
-│   │
-│   ├── linux/
-│   │   ├── cloud_recon/
-│   │   ├── persistence/
-│   │   └── privilege_escalation/
-│   │
-│   ├── cloud/
-│   │   ├── aws/
-│   │   ├── azure/
-│   │   └── gcp/
-│   │
-│   ├── web/
-│   │   └── webshells/
-│   │
-│   └── office/
-│       └── macro_droppers/
-│
-├── docs/
-│   ├── rule-writing-guide.md
-│   ├── tuning-guide.md
-│   ├── false-positive-handling.md
-│   └── detection-philosophy.md
-│
-├── tests/
-│   ├── benign_samples/
-│   ├── malicious_patterns/
-│   └── test_results.md
-│
-├── scripts/
-│   ├── validate_yara.sh
-│   └── test_rules.py
-│
-└── mappings/
+
 
 
 # Hybrid Detection YARA
