@@ -1,9 +1,5 @@
 # Hybrid-Detection-YARA
 
-
-
-# Hybrid Detection YARA
-
 A practical collection of YARA rules for detecting common threats across hybrid enterprise environments, including Windows, Linux, cloud workloads, web applications, and office documents.
 
 ## Purpose
